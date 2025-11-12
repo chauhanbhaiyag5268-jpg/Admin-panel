@@ -1,5 +1,5 @@
 {
-  "showOnDate": "2024-11-06T00:00:00Z",
+  "showOnDate": "2029-11-06T00:00:00Z",
   "keys": {
     "tgrAshish": {
       "deviceId": "3ba4a93f018dc799",
@@ -22,7 +22,7 @@
     "topText": "Update Available",
     "mainQuestion": "A new version is ready!",
     "buttonText": "Download Now",
-    "buttonClickUrl": "https://www.youtube.com/@tgr_ashish_0"
+    "buttonClickUrl": "https://chat.whatsapp.com/JymF9cuxpxFCsWKzezgo6u?mode=wwt"
   },
   "login_dialog": {
     "topText": "Access Required",
